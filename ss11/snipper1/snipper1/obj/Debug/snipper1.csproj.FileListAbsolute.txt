@@ -1,0 +1,7 @@
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper1\snipper1\bin\Debug\snipper1.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper1\snipper1\bin\Debug\snipper1.exe
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper1\snipper1\bin\Debug\snipper1.pdb
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper1\snipper1\obj\Debug\snipper1.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper1\snipper1\obj\Debug\snipper1.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper1\snipper1\obj\Debug\snipper1.exe
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper1\snipper1\obj\Debug\snipper1.pdb

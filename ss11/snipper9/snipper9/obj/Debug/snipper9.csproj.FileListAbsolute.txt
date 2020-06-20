@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper9\snipper9\bin\Debug\snipper9.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper9\snipper9\bin\Debug\snipper9.exe
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper9\snipper9\bin\Debug\snipper9.pdb
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper9\snipper9\obj\Debug\snipper9.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper9\snipper9\obj\Debug\snipper9.exe
+C:\Users\Pc\Desktop\C#\C#\ss11\snipper9\snipper9\obj\Debug\snipper9.pdb
